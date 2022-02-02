@@ -1,0 +1,38 @@
+.num {
+    position: relative;
+    min-height: 1px;
+    display: "flex;";
+   flex-direction: "row";
+   align-items: "center";
+    
+}
+.con{
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: "row";
+    align-items: "center";
+    margin: 50px;
+    padding-left: 600px;
+    background-color: #d79dd7;
+}
+#heading {
+    font-size: 100px;
+    margin-left: 90px;
+}
+.button{
+    margin-top: 50px;
+    margin-left: 70px;
+   
+
+}
+.btn{
+     background-color: #b633e6;
+     tex
+}
+.input{
+    margin-top: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
